@@ -11,10 +11,11 @@ import os
 def build_entry():
     # Saturn: 146 confirmed moons plus a ring system of ice and rock —
     # the solar system's great hoarder, keeping junk it will never use.
-    # First-person voice, one concrete scene, punchline in the last words.
+    # First-person voice, one concrete scene, punchline in the last words:
+    # the hoarder does not merely keep junk, it has a policy about it.
     return (
-        "I renamed Saturn \"The Hoarder\" after I saw it still dragging "
-        "146 moons and a ring of junk it refuses to throw away."
+        'I renamed Saturn "The Hoarder" — 146 moons, a ring of junk, '
+        "and a strict policy of never throwing anything away."
     )
 
 
